@@ -1,2 +1,1 @@
 # BetSystem
-# Bet-Algorand
